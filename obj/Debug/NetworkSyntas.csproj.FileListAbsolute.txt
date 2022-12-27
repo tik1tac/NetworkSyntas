@@ -1,0 +1,21 @@
+c:\users\admin\documents\visual studio 2015\Projects\NetworkSyntas\bin\Debug\NetworkSyntas.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\NetworkSyntas\bin\Debug\NetworkSyntas.exe
+c:\users\admin\documents\visual studio 2015\Projects\NetworkSyntas\bin\Debug\NetworkSyntas.pdb
+c:\users\admin\documents\visual studio 2015\Projects\NetworkSyntas\obj\Debug\NetworkSyntas.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\NetworkSyntas\obj\Debug\NetworkSyntas.exe
+c:\users\admin\documents\visual studio 2015\Projects\NetworkSyntas\obj\Debug\NetworkSyntas.pdb
+C:\Users\Admin\Desktop\NetworkSyntas\bin\Debug\NetworkSyntas.exe.config
+C:\Users\Admin\Desktop\NetworkSyntas\obj\Debug\NetworkSyntas.exe
+C:\Users\Admin\Desktop\NetworkSyntas\obj\Debug\NetworkSyntas.pdb
+C:\Users\Admin\Desktop\NetworkSyntas\bin\Debug\NetworkSyntas.exe
+C:\Users\Admin\Desktop\NetworkSyntas\bin\Debug\NetworkSyntas.pdb
+C:\Users\Admin\Desktop\NetworkSyntas\obj\Debug\NetworkSyntas.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\NetworkSyntas\bin\Debug\NetworkSyntas.exe.config
+C:\Users\user\Desktop\NetworkSyntas\bin\Debug\NetworkSyntas.exe
+C:\Users\user\Desktop\NetworkSyntas\bin\Debug\NetworkSyntas.pdb
+C:\Users\user\Desktop\NetworkSyntas\obj\Debug\NetworkSyntas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NetworkSyntas\obj\Debug\NetworkSyntas.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\NetworkSyntas\obj\Debug\NetworkSyntas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NetworkSyntas\obj\Debug\NetworkSyntas.csproj.CopyComplete
+C:\Users\user\Desktop\NetworkSyntas\obj\Debug\NetworkSyntas.exe
+C:\Users\user\Desktop\NetworkSyntas\obj\Debug\NetworkSyntas.pdb
